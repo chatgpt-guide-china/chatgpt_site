@@ -1,6 +1,6 @@
 # ChatGPT 中文版：国内 ChatGPT镜像网站整理合集（支持 GPT-4、GPT-4o、o1、o3及Claude 4 Sonnet、Gemini 2.5 Pro、Grok3，无需翻墙）【7月持续更新】
 
-> **更新日期：2025/07/02** 
+> **更新日期：2025/07/03** 
 
 [**ChatGPT 中文版**](https://chat.lanjingai.org) 是 OpenAI 开发的 ChatGPT 模型的**中文优化版本**，专为中文用户，提供更流畅、更精准的智能AI对话。   
 
@@ -35,7 +35,7 @@
 | **[xsimplechat.com](https://xsimplechat.com)** | GPT-4.1, GPT-4o, o1, o3, Claude 4 Sonnet, Gemini 2.5 Pro, Grok3 | ⭐⭐⭐⭐⭐  | 支持 ChatGPT 和 DeepSeek 模型，支持 AI 绘画、AI 助手、AI 插件，适合学生党和打工人 |
 | **[chat.lanjingai.org](https://chat.lanjingai.org)**   | GPT-4.1, GPT-4o, o1, o3, Claude 4 Sonnet, Gemini 2.5 Pro, Grok3  | ⭐⭐⭐⭐⭐  | 使用简单，先进大模型，4o画图，适合新手用户                       |
 | **[chat.lify.vip](https://chat.yixiaai.com)**     | GPT-4.1, GPT-4o, o1, o3, DeepSeek-R1 | ⭐⭐⭐⭐⭐  | 支持 o1、o3 和 R1 等全模型，支持 AI 写作、AI 编程、AI 办公，适应多种行业需求   |
-| **[talk.lanjing.pro](https://chat.lanjingai.org)** | GPT-4.1, GPT-4o, o1, DeepSeek-R1     | ⭐⭐⭐⭐   | 提供 AI 使用指南，ChatGPT 中文版使用指南                       |
+| **[ai.lanjing.pro](https://ai.lanjing.pro)** | GPT-4.1, GPT-4o, o1, DeepSeek-R1     | ⭐⭐⭐⭐   | 提供 AI 使用指南，ChatGPT 中文版使用指南                       |
 | **[yixiaai.cn](https://yixiaai.cn)**           | GPT-4.1, GPT-3.5, 4o mini           | ⭐⭐⭐⭐   | AI 工具导航网站，汇聚大量工具，满足你的各种需求                   |
 
 ---

@@ -1,6 +1,6 @@
 # ChatGPT 中文版：国内 ChatGPT镜像网站整理合集（支持 GPT-4、GPT-4o、o1、o3及Claude 4 Sonnet、Gemini 2.5 Pro、Grok4，无需翻墙）【8月持续更新】
 
-> **更新日期：2025/08/06**  
+> **更新日期：2025/08/07**  
 
 [**ChatGPT 中文版**](https://chat.lanjingai.org) 是 OpenAI 开发的 ChatGPT 模型的**中文优化版本**，专为中文用户，提供更流畅、更精准的智能AI对话。   
 

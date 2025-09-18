@@ -1,23 +1,23 @@
 # ChatGPT 中文版：国内 ChatGPT镜像网站整理合集（支持 GPT-4、GPT-4o、o1、o3及Claude 4 Sonnet、Gemini 2.5 Pro、Grok4，无需翻墙）【9月持续更新】
 
-> **更新日期：2025/09/17**
+> **更新日期：2025/09/19**
 
-[**ChatGPT 中文版**](https://chat.lanjingai.org) 是 OpenAI 开发的 ChatGPT 模型的**中文优化版本**，专为中文用户，提供更流畅、更精准的智能AI对话。   
+[**ChatGPT 中文版**](https://ai.lanjingai.org) 是 OpenAI 开发的 ChatGPT 模型的**中文优化版本**，专为中文用户，提供更流畅、更精准的智能AI对话。   
 
-全面体验 [**ChatGPT 中文版**](https://chat.lanjingai.org)，**无需翻墙**，支持 **GPT-4、GPT-4o、o1、o3** 和 **Claude 4 Sonnet**、**Gemini 2.5 Pro**、**Grok 3 reasoner** 及更多本地化功能~   
+全面体验 [**ChatGPT 中文版**](https://ai.lanjingai.org)，**无需翻墙**，支持 **GPT-4、GPT-4o、o1、o3** 和 **Claude 4 Sonnet**、**Gemini 2.5 Pro**、**Grok 3 reasoner** 及更多本地化功能~   
 
-本项目为用户提供一站式的 [**ChatGPT 中文版**](https://chat.lanjingai.org)使用指南，包括国内可用的 [**ChatGPT 镜像网站推荐**](https://xsimplechat.com) 和使用教程，满足各种工作、学习及日常生活中的需要~ 
+本项目为用户提供一站式的 [**ChatGPT 中文版**](https://ai.lanjingai.org)使用指南，包括国内可用的 [**ChatGPT 镜像网站推荐**](https://xsimplechat.com) 和使用教程，满足各种工作、学习及日常生活中的需要~ 
 
 **可以无限使用 ChatGPT-4、GPT-4o、o1、o3 及 Claude 4 Sonnet、Gemini 2.5 Pro、Grok 3 reasoner**~
 
-**ChatGPT 中文版**入口：**[https://chat.lanjingai.org](https://chat.lanjingai.org)**   
+**ChatGPT 中文版**入口：**[https://ai.lanjingai.org](https://ai.lanjingai.org)**   
 **ChatGPT 镜像网站**：**[https://xsimplechat.com](https://xsimplechat.com)**
 
 ---
 
 ## 什么是 ChatGPT 中文版？
 
-[**ChatGPT 中文版**](https://chat.lanjingai.org) 是 OpenAI 开发的 ChatGPT 模型的中文优化版本，专为中文用户，提供更流畅、更精准的智能 AI 对话体验。   
+[**ChatGPT 中文版**](https://ai.lanjingai.org) 是 OpenAI 开发的 ChatGPT 模型的中文优化版本，专为中文用户，提供更流畅、更精准的智能 AI 对话体验。   
 与官方 ChatGPT 相比，**ChatGPT 中文版**在以下方面更适合国内用户：
 
 - **中文语言**：更流畅的中文对话能力，适合学习、办公和日常使用。
@@ -33,7 +33,7 @@
 | 中文站网址                            | 支持模型                         | 稳定性 | 功能亮点                                                         |
 |---------------------------------------|----------------------------------|--------|------------------------------------------------------------------|
 | **[xsimplechat.com](https://xsimplechat.com)** | GPT-4.1, GPT-4o, o1, o3, Claude 4 Sonnet, Gemini 2.5 Pro, Grok3 | ⭐⭐⭐⭐⭐  | 支持 ChatGPT 和 DeepSeek 模型，支持 AI 绘画、AI 助手、AI 插件，适合学生党和打工人 |
-| **[chat.lanjingai.org](https://chat.lanjingai.org)**   | GPT-4.1, GPT-4o, o1, o3, Claude 4 Sonnet, Gemini 2.5 Pro, Grok3  | ⭐⭐⭐⭐⭐  | 使用简单，先进大模型，4o画图，适合新手用户                       |
+| **[ai.lanjingai.org](https://ai.lanjingai.org)**   | GPT-4.1, GPT-4o, o1, o3, Claude 4 Sonnet, Gemini 2.5 Pro, Grok3  | ⭐⭐⭐⭐⭐  | 使用简单，先进大模型，4o画图，适合新手用户                       |
 | **[chat.lify.vip](https://chat.yixiaai.com)**     | GPT-4.1, GPT-4o, o1, o3, DeepSeek-R1 | ⭐⭐⭐⭐⭐  | 支持 o1、o3 和 R1 等全模型，支持 AI 写作、AI 编程、AI 办公，适应多种行业需求   |
 | **[ai.lanjing.pro](https://ai.lanjing.pro)** | GPT-4.1, GPT-4o, o1, DeepSeek-R1     | ⭐⭐⭐⭐   | 提供 AI 使用指南，ChatGPT 中文版使用指南                       |
 | **[yixiaai.cn](https://yixiaai.cn)**           | GPT-4.1, GPT-3.5, 4o mini           | ⭐⭐⭐⭐   | AI 工具导航网站，汇聚大量工具，满足你的各种需求                   |
@@ -68,7 +68,7 @@
 ## 如何在国内使用上 ChatGPT 中文版
 
 ### **通过镜像网站快速体验**
-1. **选择镜像站点**：访问推荐的镜像站点（如 [chat.lanjingai.org](https://chat.lanjingai.org)）。
+1. **选择镜像站点**：访问推荐的镜像站点（如 [ai.lanjingai.org](https://ai.lanjingai.org)）。
 2. **注册或直接使用**：
    - 扫码注册：微信扫码，即可登录。
    - 免注册：直接进入聊天界面，输入问题即可获得回答。
